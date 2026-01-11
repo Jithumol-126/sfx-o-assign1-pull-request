@@ -1,8 +1,5 @@
 # sfx-o-assign1-pull-request
 Start by viewing
-Class #1 (only slides are available)
-Content: State of the industry and course introduction
-https://docs.google.com/presentation/d/1cHYNILtYjPeG0K31TmuubNvGndRjblY5GKru2l0_VkY/
 
 Class #3
 Content: Swedish job market/culture and Trends in the industry
